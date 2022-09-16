@@ -1,0 +1,920 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: xle/qhsrRYrqne16Xk3uCX06AHg=
+
+Name: assets/abc_123_a.ogg
+SHA1-Digest: D3i5rxhYxsfAEgW/qpnzxJNMUQ4=
+
+Name: assets/game.droid
+SHA1-Digest: oBklSHVwfr0SwF2fVbX4kh6omJc=
+
+Name: assets/mus_a2.ogg
+SHA1-Digest: bK/+bRg4+xYTjtMPH4mJCsfl31s=
+
+Name: assets/mus_alphysfix.ogg
+SHA1-Digest: zqnAlvgoXXezSNkvwm4n1FqIlCQ=
+
+Name: assets/mus_amalgam.ogg
+SHA1-Digest: jgJ79GyQW7FUvJ/O9sTXvAKSMQA=
+
+Name: assets/mus_ambientwater.ogg
+SHA1-Digest: qjsJonpGoZa6r7A3NrlJPZkz6M0=
+
+Name: assets/mus_anothermedium.ogg
+SHA1-Digest: 7NP0S/EH0IrOjAwZaRZ0voMYxpI=
+
+Name: assets/mus_bad.ogg
+SHA1-Digest: uYMk1DxbXlmp52fua123XHTY+lc=
+
+Name: assets/mus_barrier.ogg
+SHA1-Digest: N3nw4KMc8GGG23HY2BzXERASmVw=
+
+Name: assets/mus_battle1.ogg
+SHA1-Digest: 0m99ikyQHG/tWpjZG92+/ONdfFI=
+
+Name: assets/mus_battle2.ogg
+SHA1-Digest: wG9uQdZ7LXyn9TYWECrTD9jrPS0=
+
+Name: assets/mus_bergentruckung.ogg
+SHA1-Digest: KWQ/eG14AH2BCvfPOJoMJDtuFZQ=
+
+Name: assets/mus_bgflameA.ogg
+SHA1-Digest: OqN8U/nVrFUH5SULsHkA5hyJf0k=
+
+Name: assets/mus_birdnoise.ogg
+SHA1-Digest: oaqS2X9gkpeTIFRJQu32t0amdSc=
+
+Name: assets/mus_birdsong.ogg
+SHA1-Digest: r/fmRINM3FvXabRc9zrUPaz5a+k=
+
+Name: assets/mus_boss1.ogg
+SHA1-Digest: VBvyGOgLRr4W3Ut4H/hZwJtzEnI=
+
+Name: assets/mus_cast_1.ogg
+SHA1-Digest: 4VuwakiDL+qeWinCJJUMkN/zrYA=
+
+Name: assets/mus_cast_2.ogg
+SHA1-Digest: XHsxNpQZYYxh8HLEYx/djNb4p9Y=
+
+Name: assets/mus_cast_3.ogg
+SHA1-Digest: G6FJC934/wWZV3nMxKCEOIddsgo=
+
+Name: assets/mus_cast_4.ogg
+SHA1-Digest: UbK+siMYP+aCT+H3tFETqM0bVfc=
+
+Name: assets/mus_cast_5.ogg
+SHA1-Digest: prbKClZ/pD2CIr5A3vgO3HVGwCg=
+
+Name: assets/mus_cast_6.ogg
+SHA1-Digest: 3L9OWhN/JIuMS0BPhHtRgfrk7o0=
+
+Name: assets/mus_cast_7.ogg
+SHA1-Digest: oJV9xC2MO9jAZKO5Ezb/EV1HiX8=
+
+Name: assets/mus_chokedup.ogg
+SHA1-Digest: 9UMnoNfRHVlC3SpbvGBp8duQnIw=
+
+Name: assets/mus_churchbell.ogg
+SHA1-Digest: 0z9Kz4g40KyWIZkZFZC4OPwQaOo=
+
+Name: assets/mus_computer.ogg
+SHA1-Digest: ade6R6YMaUkK+EKdzCgIYw1zsDs=
+
+Name: assets/mus_confession.ogg
+SHA1-Digest: BtTMx3J2KNbC0deHrOl1cOYOe/Y=
+
+Name: assets/mus_coolbeat.ogg
+SHA1-Digest: cZBcpoeJ9gjNGLdYEe8uRko8YGE=
+
+Name: assets/mus_core.ogg
+SHA1-Digest: dswzFvUFRq4JpYwmM95CHJy8YA4=
+
+Name: assets/mus_core_ambience.ogg
+SHA1-Digest: fKoIxnkp1gf+q6RUMkR8NfF/law=
+
+Name: assets/mus_coretransition.ogg
+SHA1-Digest: Wyjh1LpRZPTwU4exysnGXwEzNIU=
+
+Name: assets/mus_creepy_ambience.ogg
+SHA1-Digest: gwTWa/uSqMxYMCO9BgvdePl7fLY=
+
+Name: assets/mus_crickets.ogg
+SHA1-Digest: MLTaxSpNRBfUr/UKfpTava/yEXU=
+
+Name: assets/mus_cymbal.ogg
+SHA1-Digest: HEYFpDaIy4k5R88DQmc+miEvZ4A=
+
+Name: assets/mus_dance_of_dog.ogg
+SHA1-Digest: fjOgFyctuDfuUXLYyw3U0e9TjJU=
+
+Name: assets/mus_date.ogg
+SHA1-Digest: 0aaohUdzgJLci2X1zEEPiM921W0=
+
+Name: assets/mus_date_fight.ogg
+SHA1-Digest: jimdAIMVx1RBU504dZ1s6Jrjx0I=
+
+Name: assets/mus_date_tense.ogg
+SHA1-Digest: GWd9pV8x++rLCa7JmbZhZoQgX4M=
+
+Name: assets/mus_deeploop2.ogg
+SHA1-Digest: vjAdr0MmAkOeFvmkKxxhcI1MjO0=
+
+Name: assets/mus_disturbing.ogg
+SHA1-Digest: UvyQNagZLthyuSpRAUvqr6Xmd74=
+
+Name: assets/mus_dogappear.ogg
+SHA1-Digest: MzRRFHQ8/DfL52z9Son8LthMoHs=
+
+Name: assets/mus_dogmeander.ogg
+SHA1-Digest: NW27sfJKi3I47zVHNiVAuWgE4D4=
+
+Name: assets/mus_dogroom.ogg
+SHA1-Digest: AufY6Mp4V3XtIdTMQT4YR4hQ6kI=
+
+Name: assets/mus_dogshrine_1.ogg
+SHA1-Digest: mwVGEPGmHJLBKcd1BucN2MnPv6o=
+
+Name: assets/mus_dogshrine_2.ogg
+SHA1-Digest: BDYIA0Top9OGo8qltRJwOl0YJB0=
+
+Name: assets/mus_dogsong.ogg
+SHA1-Digest: MxtjIvIrT7542Ke7ADU7HXdnOdo=
+
+Name: assets/mus_dontgiveup.ogg
+SHA1-Digest: odVptJG3zpKfPano2M/VNigzKQ0=
+
+Name: assets/mus_doorclose.ogg
+SHA1-Digest: wZTCsykW/u1M55fBXTj4zpxukcs=
+
+Name: assets/mus_dooropen.ogg
+SHA1-Digest: RN5v8TInyaK1iory6YP01XfDw7Y=
+
+Name: assets/mus_drone.ogg
+SHA1-Digest: eMVuK7778phdlU7yQkDBCuXqj1c=
+
+Name: assets/mus_dummybattle.ogg
+SHA1-Digest: 354zInHO+g0agWk71XphrgemtGc=
+
+Name: assets/mus_dununnn.ogg
+SHA1-Digest: aJ8XUNJsTivZfYC5k/+fEYoGZXM=
+
+Name: assets/mus_elevator.ogg
+SHA1-Digest: wBzJxha4ZEdF0KVJyWE67AIcLN8=
+
+Name: assets/mus_elevator_last.ogg
+SHA1-Digest: VsK03IpbAp6uxjGFuk/+WZ0+yvg=
+
+Name: assets/mus_endarea_parta.ogg
+SHA1-Digest: ourB89eWv5MSffPIwZF2WY0zTRE=
+
+Name: assets/mus_endarea_partb.ogg
+SHA1-Digest: JXbNxbRQCFJg/+jEt9aOgF1Feak=
+
+Name: assets/mus_endingexcerpt1.ogg
+SHA1-Digest: RgnJ4MpT8L1oa0xEbfg1lXFYeLs=
+
+Name: assets/mus_endingexcerpt2.ogg
+SHA1-Digest: tv16vXDt+O5U8b2y3sNR/F/FMdA=
+
+Name: assets/mus_express_myself.ogg
+SHA1-Digest: jN2rzUkscF41pjqk9jjxyWVONDM=
+
+Name: assets/mus_f_6s_1.ogg
+SHA1-Digest: TxmglPIA/OlqRHeTmsy/IXDKVFI=
+
+Name: assets/mus_f_6s_2.ogg
+SHA1-Digest: gX9Q1CD4hmcNjwF9Wp7tpi/ibZ4=
+
+Name: assets/mus_f_6s_3.ogg
+SHA1-Digest: IYj+F0FBtvKwpXgKm3nrwY8njFk=
+
+Name: assets/mus_f_6s_4.ogg
+SHA1-Digest: OZmdXdKsiRSUin6NnFNJgCPHJTQ=
+
+Name: assets/mus_f_6s_5.ogg
+SHA1-Digest: OZsunQHINlV1InOS+4vHtsIOeZw=
+
+Name: assets/mus_f_6s_6.ogg
+SHA1-Digest: 0PlCg/iX4BUWS4w6b//xUvogCGs=
+
+Name: assets/mus_f_alarm.ogg
+SHA1-Digest: Wf3nrIuC+xAk56FhMWfvgoIl0Hk=
+
+Name: assets/mus_f_destroyed.ogg
+SHA1-Digest: wtMqMphZyqV8ev6kD0xVt0tqKAI=
+
+Name: assets/mus_f_destroyed2.ogg
+SHA1-Digest: tDC7fHv+9rE6VInEnHqDPvZeWw4=
+
+Name: assets/mus_f_destroyed3.ogg
+SHA1-Digest: nD6MXWdi1owCg+Qus+pt8aIgtE4=
+
+Name: assets/mus_f_finale_1.ogg
+SHA1-Digest: HZnV6h4qTZ/43EO7HzEM9kCl2h8=
+
+Name: assets/mus_f_finale_1_l.ogg
+SHA1-Digest: 8s2UkpgKN1BOo2DyhUSe5T9kRU4=
+
+Name: assets/mus_f_finale_2.ogg
+SHA1-Digest: HNUgjiH0RMPHsMNrWhx19XR/SvI=
+
+Name: assets/mus_f_finale_3.ogg
+SHA1-Digest: tZexJuw5OgofLhfK8351qiNVlIE=
+
+Name: assets/mus_f_intro.ogg
+SHA1-Digest: tZneNsgmR9OAtEGWCuzBU4Q11N0=
+
+Name: assets/mus_f_newlaugh.ogg
+SHA1-Digest: vS/GMfq5gcAmdth9IqR5oxdcV3s=
+
+Name: assets/mus_f_newlaugh_low.ogg
+SHA1-Digest: kE3+OpHEvb8wuMg47sJBKiQ4z7c=
+
+Name: assets/mus_f_part1.ogg
+SHA1-Digest: UGobEJCntCKVsYEUOciqN+FNzGg=
+
+Name: assets/mus_f_part2.ogg
+SHA1-Digest: mOt8flYv/jLiP4pmcYu9xAoX+Ls=
+
+Name: assets/mus_f_part3.ogg
+SHA1-Digest: lOkJOTaozMglSHdyrfkBRGjTKiw=
+
+Name: assets/mus_f_saved.ogg
+SHA1-Digest: MgXlRDG30LoxVhDgUm1wMXTQIyE=
+
+Name: assets/mus_f_wind1.ogg
+SHA1-Digest: A9ZFosfGdklRCh6iRt+n2tS0EQs=
+
+Name: assets/mus_f_wind2.ogg
+SHA1-Digest: /zaPvyt0epy61a4fti/y1ADvMZ8=
+
+Name: assets/mus_fallendown2.ogg
+SHA1-Digest: 1DW3siHw5bqxSQkRT9H8etJJXt8=
+
+Name: assets/mus_fearsting.ogg
+SHA1-Digest: 4oRC3UQq970QqaoUet2OQi4p2sQ=
+
+Name: assets/mus_flowey.ogg
+SHA1-Digest: R5ghSVnS5p5/V1oboLzGddGZkS0=
+
+Name: assets/mus_gameover.ogg
+SHA1-Digest: DHh84Nd3ObVSPX2iOdOyxoikjXI=
+
+Name: assets/mus_ghostbattle.ogg
+SHA1-Digest: xtueM+WpP2hIUnSfcHDpwbIIGso=
+
+Name: assets/mus_harpnoise.ogg
+SHA1-Digest: xUfmvMNbBy7xduQ2xtxujeHiaU8=
+
+Name: assets/mus_hereweare.ogg
+SHA1-Digest: hd5jHl5Zkf9u98RqKiHOyM7ezxQ=
+
+Name: assets/mus_hotel.ogg
+SHA1-Digest: tt4CiUsA3raXrmAd6f2qmpNTG9c=
+
+Name: assets/mus_hotel_battle.ogg
+SHA1-Digest: jAxPvZo3bU1MCYrqxJg03odDwhE=
+
+Name: assets/mus_house1.ogg
+SHA1-Digest: OSM+fObPYmHvwUIrI4pKSzvM3uA=
+
+Name: assets/mus_house2.ogg
+SHA1-Digest: iVpjMn7xHIl7D6hpG2cXaxiWQM4=
+
+Name: assets/mus_intronoise.ogg
+SHA1-Digest: SSYxSUZahgNwVL06Gggz9+x91P8=
+
+Name: assets/mus_kingdescription.ogg
+SHA1-Digest: VDHg5zSwvyrJegsSxVHjRaNtRvI=
+
+Name: assets/mus_lab.ogg
+SHA1-Digest: zyo938GXZviLl5go6DWKP3hiOMM=
+
+Name: assets/mus_leave.ogg
+SHA1-Digest: lkwUcM14W/6YZV/g7f6lKv6s0S8=
+
+Name: assets/mus_menu0.ogg
+SHA1-Digest: lHjIdBwoOZ6es/xcSs6H7vVjRlA=
+
+Name: assets/mus_menu1.ogg
+SHA1-Digest: VJX5Uvh5RB4AEhCp+LauijJDdm8=
+
+Name: assets/mus_menu2.ogg
+SHA1-Digest: ZXZ38IWsRBoIaexwqcpEHHU05qM=
+
+Name: assets/mus_menu3.ogg
+SHA1-Digest: TcshyR4ymjtpuD05Fbbmi3ITIu0=
+
+Name: assets/mus_menu4.ogg
+SHA1-Digest: Wqke3/LQleSk7InsJjNqKXof2wU=
+
+Name: assets/mus_menu5.ogg
+SHA1-Digest: eQONKg4turGokQrDfgO/nQO14wI=
+
+Name: assets/mus_menu6.ogg
+SHA1-Digest: YpJvATmzELJaeYt3AskoKixaZ70=
+
+Name: assets/mus_mett_applause.ogg
+SHA1-Digest: dOt/47rxwThKCE/6npOwVfb7Eok=
+
+Name: assets/mus_mett_cheer.ogg
+SHA1-Digest: +yp4kVe7nx6OSYumvPzF2vd88Io=
+
+Name: assets/mus_mettafly.ogg
+SHA1-Digest: vyNPoVryrucTtLMrvi+kwdG6UUw=
+
+Name: assets/mus_mettaton_ex.ogg
+SHA1-Digest: SZbFSSyratZMhgno5C4h2BNUSkg=
+
+Name: assets/mus_mettaton_neo.ogg
+SHA1-Digest: Frervg3h7jE48JdPr/ZqRTXokYI=
+
+Name: assets/mus_mettaton_pretransform.ogg
+SHA1-Digest: Mk0KkxVKtsIryQleafURvwlh3N0=
+
+Name: assets/mus_mettatonbattle.ogg
+SHA1-Digest: 1+2baUB7HWQcj8Nc5y+cUnEYzX8=
+
+Name: assets/mus_mettmusical1.ogg
+SHA1-Digest: 4+/5Q30sTCaKTHh0lpfCMBEobiE=
+
+Name: assets/mus_mettmusical2.ogg
+SHA1-Digest: JP1vMdoZJ9OsI8Vr7YR/f5jy3+Q=
+
+Name: assets/mus_mettmusical3.ogg
+SHA1-Digest: NgavxVpGDtte/qAzGrDq3KAUpTw=
+
+Name: assets/mus_mettmusical4.ogg
+SHA1-Digest: S92bzFquTXrL4J6T/FQGNVYJyts=
+
+Name: assets/mus_mettsad.ogg
+SHA1-Digest: jITtcWWSsXDW3iTqLBWPOsmwGvo=
+
+Name: assets/mus_mode.ogg
+SHA1-Digest: wlL5EGuHRv50m3Ww13roVDpTpsQ=
+
+Name: assets/mus_mtgameshow.ogg
+SHA1-Digest: 0DY17+mPjqMt3mU7r3v0OPOYF1g=
+
+Name: assets/mus_muscle.ogg
+SHA1-Digest: T6GNjPHpUFPppPJOWkCQzk3KsKo=
+
+Name: assets/mus_musicbox.ogg
+SHA1-Digest: /QKGGvi6Hlk4FjwH9i6XuhRdt+Q=
+
+Name: assets/mus_myemeow.ogg
+SHA1-Digest: IC2tX/CB8HJGSzUn/tmryuBUM9I=
+
+Name: assets/mus_mysteriousroom2.ogg
+SHA1-Digest: 2ybe/zIm53zNMqyRwiSOxgjg2lI=
+
+Name: assets/mus_mystery.ogg
+SHA1-Digest: qKiaAPJUiUeLBaEZhK8wHjZMc1U=
+
+Name: assets/mus_napstachords.ogg
+SHA1-Digest: QBLdUL3uWyyR/gyYENFin19nLN0=
+
+Name: assets/mus_napstahouse.ogg
+SHA1-Digest: TgfjWS8GwL1dzHQFOK1i5tJvvlY=
+
+Name: assets/mus_news.ogg
+SHA1-Digest: IOWk2LKaITaXAErbAi9Z1wl6iCQ=
+
+Name: assets/mus_news_battle.ogg
+SHA1-Digest: mtKEkT8i9jKhNNdRFlkUSOmMLIw=
+
+Name: assets/mus_ohyes.ogg
+SHA1-Digest: 9hZRecljQIp/I8CAiNGzXZMQJdo=
+
+Name: assets/mus_oogloop.ogg
+SHA1-Digest: ZrilHVEebLDr3vwCbZEic/qAATY=
+
+Name: assets/mus_operatile.ogg
+SHA1-Digest: HRvSZ115F9Tfuwf7ue524uM9RtI=
+
+Name: assets/mus_options_fall.ogg
+SHA1-Digest: 3R+6m8n5cv7sE536QvCZLtVo1HY=
+
+Name: assets/mus_options_summer.ogg
+SHA1-Digest: F45f+8CI9VtkzOdfThWAmuGdi8o=
+
+Name: assets/mus_options_winter.ogg
+SHA1-Digest: iHpn13b/sLwy0A/Di+xUJ5wErn0=
+
+Name: assets/mus_papyrus.ogg
+SHA1-Digest: xdUn6puFCdae8Zx5Ffio6YCYLwU=
+
+Name: assets/mus_papyrusboss.ogg
+SHA1-Digest: XDSS+g3RooHcpaxAvzaOgOS0sVQ=
+
+Name: assets/mus_piano.ogg
+SHA1-Digest: yKQp+BQ388EsIsNcvxS6MNFzqq0=
+
+Name: assets/mus_prebattle1.ogg
+SHA1-Digest: Btzo5dhctzI5qOsd9WoEwuneuYE=
+
+Name: assets/mus_predummy.ogg
+SHA1-Digest: MzRYikn+4yzRaKv0e+NQOLFwWC8=
+
+Name: assets/mus_race.ogg
+SHA1-Digest: ccQZIHH5YvDThIzmzrVYjZJREXo=
+
+Name: assets/mus_rain.ogg
+SHA1-Digest: We008W2W3SPQEnVGAi28VgHY1qk=
+
+Name: assets/mus_rain_deep.ogg
+SHA1-Digest: VxofwHsn2bj3oBKgDG6EKARB3Uo=
+
+Name: assets/mus_repeat_1.ogg
+SHA1-Digest: viK3uYGSbdM7i4GPcOxkVWfXzvQ=
+
+Name: assets/mus_repeat_2.ogg
+SHA1-Digest: Drdn8fbHF2lhucGjImQHRElVhN0=
+
+Name: assets/mus_reunited.ogg
+SHA1-Digest: MiJreujcoft8PFWw4PyVvF/B3p4=
+
+Name: assets/mus_rimshot.ogg
+SHA1-Digest: VzBqXqC642bPi+iwWf9mJV1A/hk=
+
+Name: assets/mus_ruins.ogg
+SHA1-Digest: 93hThJO8gYs2JC9PjXwDaSjxpPM=
+
+Name: assets/mus_ruinspiano.ogg
+SHA1-Digest: DDES9CNFnumGbQAOqP2Lx57me0Q=
+
+Name: assets/mus_sansdate.ogg
+SHA1-Digest: CyN+ELMuKafVWd5JpfaalLQP2F4=
+
+Name: assets/mus_sfx_a_grab.ogg
+SHA1-Digest: MpL+S49pY7K4LWiID1q0E/paMps=
+
+Name: assets/mus_sfx_chainsaw.ogg
+SHA1-Digest: EN08ujaZc+hqil2y8l0iccb78ss=
+
+Name: assets/mus_sfx_hypergoner_charge.ogg
+SHA1-Digest: pZYfo9dJvBFgBU0FbsgoJTCEN+M=
+
+Name: assets/mus_sfx_hypergoner_laugh.ogg
+SHA1-Digest: IqKTvfSkaUP0VKR/Bw8Jn3bazkg=
+
+Name: assets/mus_sfx_rainbowbeam_hold.ogg
+SHA1-Digest: ZPtI2FdEt4qCN/I/cvBBvE8LFq4=
+
+Name: assets/mus_shop.ogg
+SHA1-Digest: CxXTWueJb3cv6L6xFSMdq/3y0XA=
+
+Name: assets/mus_sigh_of_dog.ogg
+SHA1-Digest: uXHAD2fvDLUW8xhIXB9CuFFu+4I=
+
+Name: assets/mus_silence.ogg
+SHA1-Digest: g7Z4eVJUnpX4DMXi2AX3V43o72E=
+
+Name: assets/mus_smallshock.ogg
+SHA1-Digest: +O6seq+jH6dGT2Dsr0xBpdkb2IE=
+
+Name: assets/mus_smile.ogg
+SHA1-Digest: 8pLNPZBTZXIBc1sAcHfhy26D4BU=
+
+Name: assets/mus_snoresymphony.ogg
+SHA1-Digest: GvCwZIQK/xMhjyFUyDS96XVjN8g=
+
+Name: assets/mus_snowwalk.ogg
+SHA1-Digest: mI1Z75OGRrO/flX37jTKo3QuQHE=
+
+Name: assets/mus_snowy.ogg
+SHA1-Digest: aAXyOEsowOjhCWw1XHHa+nqxO2U=
+
+Name: assets/mus_spider.ogg
+SHA1-Digest: BMUnFfbqwvWPAIKF7Scm+dbAjaM=
+
+Name: assets/mus_spoopy.ogg
+SHA1-Digest: Zu9f6ak5X8X8ojO6j87QqqfQHv4=
+
+Name: assets/mus_spoopy_holiday.ogg
+SHA1-Digest: RhfM8yw38jPGU/hYFHYV6wuoR7k=
+
+Name: assets/mus_spoopy_wave.ogg
+SHA1-Digest: trOPTuSGDplvE5j2r5sW/q/7SFE=
+
+Name: assets/mus_st_happytown.ogg
+SHA1-Digest: lSWslBQsExQYhlS+VeR7AxGGR4A=
+
+Name: assets/mus_st_him.ogg
+SHA1-Digest: M++aiGfE467CxA/VRrSSyfLJD2w=
+
+Name: assets/mus_st_meatfactory.ogg
+SHA1-Digest: d3rwsKbf/Dmv8s+KLDQDUFhuSW0=
+
+Name: assets/mus_st_troubledingle.ogg
+SHA1-Digest: cjRUzBkpfd65d323UMOeU/iENak=
+
+Name: assets/mus_star.ogg
+SHA1-Digest: TvTB50onWFPP/q4KU1tjM+2fZQM=
+
+Name: assets/mus_sticksnap.ogg
+SHA1-Digest: 17+UxuYePy/K1qaSIr1Z6m4lLLI=
+
+Name: assets/mus_story.ogg
+SHA1-Digest: 7plaTuHrh2vRETRhlS4gOvi9paw=
+
+Name: assets/mus_story_stuck.ogg
+SHA1-Digest: BBtRo7bxRwzjLNga0oSpxszyXlM=
+
+Name: assets/mus_temshop.ogg
+SHA1-Digest: BQON3iBydaJXTOXV9cWZonJC7zg=
+
+Name: assets/mus_temvillage.ogg
+SHA1-Digest: GJZbkJlrhdddkHFlbOWrFE3CoLw=
+
+Name: assets/mus_tension.ogg
+SHA1-Digest: YeCl15hpf/vwVpb6j/QVYcUoDhs=
+
+Name: assets/mus_tone2.ogg
+SHA1-Digest: iJoypXdBYcv3rh64DhqwaRODR8U=
+
+Name: assets/mus_tone3.ogg
+SHA1-Digest: oHn/S9nOxE0uOVDCpj9MU7BMqCs=
+
+Name: assets/mus_toomuch.ogg
+SHA1-Digest: oaLoEYFOXZyljKv6bxNRJWYkfuU=
+
+Name: assets/mus_toriel.ogg
+SHA1-Digest: eHkMCQ4/m83A/4pld8kwl9uryTM=
+
+Name: assets/mus_town.ogg
+SHA1-Digest: 0Xw+beHj4g/Hr/HEzh61Dv20hU4=
+
+Name: assets/mus_tv.ogg
+SHA1-Digest: +AJXecwV68Vwxp7RNIHp9qx6j4w=
+
+Name: assets/mus_undyneboss.ogg
+SHA1-Digest: lxwM39J1vZE5PoOVqLTpXuDpM5A=
+
+Name: assets/mus_undynefast.ogg
+SHA1-Digest: hvvL9Gl3KOf2Tsln5FYdWrjwL3I=
+
+Name: assets/mus_undynepiano.ogg
+SHA1-Digest: +HPWzJnLtnzfzGSLPPt4pk+4NFU=
+
+Name: assets/mus_undynescary.ogg
+SHA1-Digest: dGKApxx6tH3GKLmnpsfuDJp8tFI=
+
+Name: assets/mus_undynetheme.ogg
+SHA1-Digest: 8f+8WDdKqpdTHx/8ypZUpusD75k=
+
+Name: assets/mus_undynetruetheme.ogg
+SHA1-Digest: F8xXBFGMLRUc3IZBCfDI3v4SDCQ=
+
+Name: assets/mus_vsasgore.ogg
+SHA1-Digest: bu64Za0dbf8zqweDwR/FMtRzuCo=
+
+Name: assets/mus_waterfall.ogg
+SHA1-Digest: 3o3xMiLF+oZsb50f1MqHZuaVbD8=
+
+Name: assets/mus_waterquiet.ogg
+SHA1-Digest: o6m3Y68XQsj75pZTO8O0rApsENQ=
+
+Name: assets/mus_wawa.ogg
+SHA1-Digest: WBW7MpXoLwuU+ZPRWLgIdIF1T7Q=
+
+Name: assets/mus_whoopee.ogg
+SHA1-Digest: 7OSOMwJw5Iar5OGmAtp0zSBCG28=
+
+Name: assets/mus_wind.ogg
+SHA1-Digest: URNZqR9CNa3jP+Fy/6LY3tf+MKk=
+
+Name: assets/mus_woofenstein.ogg
+SHA1-Digest: Gk/8UidSDGuUQY5hX7ICx97kYbo=
+
+Name: assets/mus_woofenstein_loop.ogg
+SHA1-Digest: mINci4ejQy9TYh53BD1w5Nh+/vI=
+
+Name: assets/mus_wrongnumbersong.ogg
+SHA1-Digest: 2nMPjV8XcOPGGYNegR+Fp6PvlPM=
+
+Name: assets/mus_wrongworld.ogg
+SHA1-Digest: c4MJStzMaRoA9lUzvnh8XicekBc=
+
+Name: assets/mus_x_undyne.ogg
+SHA1-Digest: tk7h8Qf3GuvcBELaV2RVDMbtrYo=
+
+Name: assets/mus_x_undyne_pre.ogg
+SHA1-Digest: 5ksUHMscdop+S1usVP7pCirCDPE=
+
+Name: assets/mus_xpart.ogg
+SHA1-Digest: q16MFjH+/uyO+hQwQKW29HJjrRU=
+
+Name: assets/mus_xpart_2.ogg
+SHA1-Digest: 57DWOd5FTyzCtgwe4QrEor9FSA4=
+
+Name: assets/mus_xpart_a.ogg
+SHA1-Digest: 0OFoV9UUhgV9P9FEir3Xk4Lf2eA=
+
+Name: assets/mus_xpart_b.ogg
+SHA1-Digest: OqZ623B/joWGSIJW/wxuizbJHq8=
+
+Name: assets/mus_xpart_back.ogg
+SHA1-Digest: kl0KIQf0yQpfBNexImuuA1R13uE=
+
+Name: assets/mus_yourbestfriend_3.ogg
+SHA1-Digest: hq/BpRYXQCzQG2JLIaFVv4axRDo=
+
+Name: assets/mus_z_ending.ogg
+SHA1-Digest: sJM9HlZVgkc9aKZEgbp+BjHDLkY=
+
+Name: assets/mus_zz_megalovania.ogg
+SHA1-Digest: g39zCKG6f0jUPPwdQ4S2xo4OV+s=
+
+Name: assets/mus_zzz_c.ogg
+SHA1-Digest: R4J4Wyxz4vxMz0vxKLlseqgrsZo=
+
+Name: assets/mus_zzz_c2.ogg
+SHA1-Digest: OOW53l1Vkf/aSzdsy+dYO3PwwCo=
+
+Name: assets/options.ini
+SHA1-Digest: n3WUmwsr1xRlqPKBSHgd7ZUsAxU=
+
+Name: assets/portrait_splash.png
+SHA1-Digest: Hqw3Ew4lkCkIBQqVy68WMcmklwE=
+
+Name: assets/snd_ballchime.ogg
+SHA1-Digest: jAHHOCTnXAca/5AuNRzUfHYAdP0=
+
+Name: assets/snd_curtgunshot.ogg
+SHA1-Digest: E3tqpXb14IbU+sVatdVMwfG5Ih0=
+
+Name: assets/snd_mushroomdance.ogg
+SHA1-Digest: Aeyy99mN67MfLTQPUy/sVhD3pjs=
+
+Name: assets/splash.png
+SHA1-Digest: Hqw3Ew4lkCkIBQqVy68WMcmklwE=
+
+Name: classes.dex
+SHA1-Digest: gTL8jX3NASATO9EZWz9m77EAKtk=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: t+ginuSBZEP0c6KCWRLTkAAkD+0=
+
+Name: lib/arm64-v8a/libyoyo.so
+SHA1-Digest: IWgri1hQx71De22qGnDzfgcaZRs=
+
+Name: lib/armeabi-v7a/libc++_shared.so
+SHA1-Digest: aAMLOM2dJ7jRSdFjcLuZjbe14Rs=
+
+Name: lib/armeabi-v7a/libyoyo.so
+SHA1-Digest: uuFmKq4xdcksI5bxCfjLZJlckbQ=
+
+Name: lib/x86/libc++_shared.so
+SHA1-Digest: GpKyFCLiNrHi4LM3zzzXqKh5HVk=
+
+Name: lib/x86/libyoyo.so
+SHA1-Digest: PSUuqY33g4eeULmPgFRHXC0P1sg=
+
+Name: lib/x86_64/libc++_shared.so
+SHA1-Digest: lgSoEms6a1RvQqHNfXtdJumscCw=
+
+Name: lib/x86_64/libyoyo.so
+SHA1-Digest: qeQsYjfvB3HTgAeUGUXckuPwtak=
+
+Name: res/drawable-hdpi-v26/adaptive_bg.png
+SHA1-Digest: fWk7go/3zwOca4nuwRG6Kh7HBWk=
+
+Name: res/drawable-hdpi-v26/adaptive_icon.png
+SHA1-Digest: 1T4Ae7peNxkQD+7z/PPHyV4gktQ=
+
+Name: res/drawable-hdpi-v26/icon.xml
+SHA1-Digest: OZMUWR8ziFVaVxQLleBGnGgA/hY=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 07vKFyoT/57B5oJy0hznYAGB3k4=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: D2PhKM51tYZo8a79riJ3XiUD2nc=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: NP77wvGcwseigxPz8Z8jideVqXk=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: ralFi/xjLzZzimSmlAGCFAUgfbE=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: 4j+L3Jzr2U70TU9dUenWhtYe/lU=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: inKyhhyZgO65645KR/OH06l6dAc=
+
+Name: res/drawable-ldpi-v26/adaptive_bg.png
+SHA1-Digest: T6gxfcD4gogvd3lEq+GmDvYS4Nc=
+
+Name: res/drawable-ldpi-v26/adaptive_icon.png
+SHA1-Digest: 6JjepVvYk7hCHjm9TV5p1nAh+G4=
+
+Name: res/drawable-ldpi-v26/icon.xml
+SHA1-Digest: OZMUWR8ziFVaVxQLleBGnGgA/hY=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: TyIsTxpGgAn6WtF5pVqPu1APE1Q=
+
+Name: res/drawable-mdpi-v26/adaptive_bg.png
+SHA1-Digest: TBg8C4i1SAWQx7Wivn9eDnlhByo=
+
+Name: res/drawable-mdpi-v26/adaptive_icon.png
+SHA1-Digest: 4cSOp+qW82g+T9OioP5tdHHm7Xg=
+
+Name: res/drawable-mdpi-v26/icon.xml
+SHA1-Digest: OZMUWR8ziFVaVxQLleBGnGgA/hY=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: WB3TdTAlknqkCoCV0QK8MjUp3Us=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: sUXBSDmIwrVhXMAYtsmpMAdZsVM=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 58BeVrWmam0XTYtOcBJSh3YmiJQ=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: Wl4jBkhtPS9E+JkWaS0GOyoMbuw=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: qf8Bo3OrZFOkS8OQT2FTwy3VSA8=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: cz2cTpSbxUR34pkCMo3M7a+mSXk=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: 0dCc3V3lrYtxJDMsykXU7CtEunk=
+
+Name: res/drawable-xhdpi-v26/adaptive_bg.png
+SHA1-Digest: as5t7ceGzY8dnOsJ5RQ1r9VQSfE=
+
+Name: res/drawable-xhdpi-v26/adaptive_icon.png
+SHA1-Digest: J37tvHjWCPmeggPbEXZ8X42bKuU=
+
+Name: res/drawable-xhdpi-v26/icon.xml
+SHA1-Digest: OZMUWR8ziFVaVxQLleBGnGgA/hY=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: tFYIqKm2nLcS1XHmqrhnyLJ9cbc=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: dnObiFrk1DvtR5VGgJWQwE6oNeo=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 9MYmMKRnfwttaoRGc1WDg0jzgyY=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: URz3Lz/tIjMAtXfNHimWcDQLTtQ=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: iJFesSsAAmE1zFB9XbiCZW1cKKU=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: cuJ+cwlm5QO6frAFAjbS9w6zhJ4=
+
+Name: res/drawable-xxhdpi-v26/adaptive_bg.png
+SHA1-Digest: nat8lds6AsNHQoJzwteJN9M6AX4=
+
+Name: res/drawable-xxhdpi-v26/adaptive_icon.png
+SHA1-Digest: afMhozlLZ2joPrp3WcSyBLa6lR0=
+
+Name: res/drawable-xxhdpi-v26/icon.xml
+SHA1-Digest: OZMUWR8ziFVaVxQLleBGnGgA/hY=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: h7LjryecLU3RzQAIgACvjAdcD1A=
+
+Name: res/drawable-xxxhdpi-v26/adaptive_bg.png
+SHA1-Digest: /uA0MI6AF+Qlv1HfG+BUufZjHUg=
+
+Name: res/drawable-xxxhdpi-v26/adaptive_icon.png
+SHA1-Digest: 9sXRKhUF7BbIP34UVgWUgLxfKkE=
+
+Name: res/drawable-xxxhdpi-v26/icon.xml
+SHA1-Digest: OZMUWR8ziFVaVxQLleBGnGgA/hY=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: jmlQwCm2CkwP3qSc3ZVZkN+ebrQ=
+
+Name: res/drawable/banner.png
+SHA1-Digest: mkL3K23LMjVfUcNtafPZMAoUDJI=
+
+Name: res/drawable/icon.png
+SHA1-Digest: tFYIqKm2nLcS1XHmqrhnyLJ9cbc=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: NwNNE3r5ag8EuNjSRlQ8NpEFcBk=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: BHR+2UyV4lQBdefo9jJWMKJ+QMg=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: m2wXlxh7RwSsWoA4lmZYqULp2Xk=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: K4i53VPXFJrU/ednbdRcTPRN+yM=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: ZQk7OhPDiKxrjkZf2ESfwOhG/hk=
+
+Name: res/layout-v17/notification_action.xml
+SHA1-Digest: m2M7l05Z4H8au0v/JEYFAjzMMn4=
+
+Name: res/layout-v17/notification_action_tombstone.xml
+SHA1-Digest: R/L/oMwyPLo5v1Dto+m76CW6+yg=
+
+Name: res/layout-v17/notification_template_big_media.xml
+SHA1-Digest: 5vqtyLc9myLHbwvYyh5g6JdQsQI=
+
+Name: res/layout-v17/notification_template_big_media_custom.xml
+SHA1-Digest: cJLOQIKyAjFucnrqZKYVA/9oggg=
+
+Name: res/layout-v17/notification_template_big_media_narrow.xml
+SHA1-Digest: GuJdrsBJ3tiMUvkmUCnC63uhbTM=
+
+Name: res/layout-v17/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: MddMfyQ5sljQoSB9Zu7eQ1g+knA=
+
+Name: res/layout-v17/notification_template_custom_big.xml
+SHA1-Digest: w+3w5XFhTZjEOWfzKJ8K71kTw2c=
+
+Name: res/layout-v17/notification_template_lines_media.xml
+SHA1-Digest: nl670K6M9VMrgxkEs6VnpA6u+0w=
+
+Name: res/layout-v17/notification_template_media.xml
+SHA1-Digest: /GlLP3FytQWwMrc9aygJDir5WcE=
+
+Name: res/layout-v17/notification_template_media_custom.xml
+SHA1-Digest: +J/3QYtxof6l1N3yidCOAEf91hY=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: wnrE/Nc5w75fpSGp6sy0hsqUURE=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: pJnyUGFAbtB2wDmEmxu+SFicyoA=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: aenfc09D88FXcrfZUUIEzypX+I4=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: Xi8Up4kSSMmkppujKexa/RQt61o=
+
+Name: res/layout/download.xml
+SHA1-Digest: zf3WInBv60LItBa2LZF7L55OUGM=
+
+Name: res/layout/main.xml
+SHA1-Digest: fCcVm2VVdcyQmeTYujZD2oYzGFI=
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: h9CifkLsdlAz7AbTh89h77QKR6k=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: 7Ag3x4/4X8dFycrEwlm5tEsgt2g=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: bw+s5VP6wYof99AZUUYeNM5p/SU=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: 8jpJUR0JS2wWaACaBsamnUmgSsg=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: iAr+Z7d/pClTDELrYKRY7bHWHnw=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA1-Digest: adgSTgfBmhIc8K2GRwkecIRsi7c=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: BAUH/5jPJIld3WhZpmztNQOHn6g=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: DRDCmhIeEEUTnYCYakJjKFAGHmU=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: ATGfJM69zsyXnh71TbzYbAEXbiM=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: GLkZLGwT0H0EcuYADhchYa11poo=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: qfdREK3QvAsslzp9hOEC0iFuhY8=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: B6CteHv7Nu3WXp1DXHHpoIISxUw=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: bNI1ZDq57OboE3/45PbzkJSArPM=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: Ht4qKwZ5I5qtlJnfX2F6wYKeW/c=
+
+Name: res/layout/userpasslayout.xml
+SHA1-Digest: NN6aJvvvTp7JVElUmYxn18+eKcc=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: aT/L+Bsrtx5pS3txigLv2191fFg=
+
+Name: resources.arsc
+SHA1-Digest: /NZTcdzTHwEIaWJrzCY54zZm47s=
+
